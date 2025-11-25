@@ -28,7 +28,7 @@ Comparison between pixel-level masks and scribble annotations and their impact o
 ## 📻 Overview
 
 <div align="center">
-    <img width="1000" alt="image" src="figures/method.png?raw=true">
+    <img width="1000" alt="image" src="Figures/method.png?raw=true">
 </div>
 
 
@@ -136,7 +136,7 @@ Comparison with other  fully supervised IML methods. Bold and underlined indicat
 ## ✨ Visualization results 
 
 <div align="center">
-    <img width="1000" alt="image" src="figures/vs.png?raw=true">
+    <img width="1000" alt="image" src="Figures/vs.png?raw=true">
 </div>
 
 <div align="center">
