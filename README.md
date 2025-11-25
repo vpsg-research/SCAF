@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 【AAAI'26】 Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization </h1>
+<h1> [AAAI'26] Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization </h1>
 </div>
 
 ## 📢 News
