@@ -1,5 +1,5 @@
 <div align="center">
-<h1> [AAAI'26] Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization </h1>
+<h1> 【AAAI'26】 Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization </h1>
 </div>
 
 ## 📢 News
@@ -145,7 +145,14 @@ Visualization results of different methods.
 
 ## Citation
 If you find our code useful, please consider citing us and give us a star!
-
+```
+@inproceedings{LiSCAF,
+  title={Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization},
+  author={Li, Songlin and Yu, Guofeng and Guo, Zhiqing and Diao, Yunfeng and Ma, Dan and Yang, Gaobo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2026}
+}
+```
 
 ## 👍Credit
 Our code is partly based on [CRNet](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) and [PatchCore](https://github.com/amazon-science/patchcore-inspection.git). We sincerely thank their authors for their open-source contributions.
