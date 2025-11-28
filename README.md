@@ -16,7 +16,7 @@
 * **🧩Boosting SOTA Performance:** The proposed model consistently **outperforms existing fully supervised methods** on both in-distribution and out-of-distribution test sets. Moreover, it remains highly robust and maintains accurate IML even under severe recompression and complex quality degradations on **real-world social platforms** (e.g., Facebook, Weibo, WeChat, WhatsApp).
 
 ##  Introduction
-Official repository for the AAAI2026 paper *Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization* [[paper]](https://arxiv.org/abs/2507.13018) 
+Official repository for the AAAI2026 paper “*Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization*” [[paper]](https://arxiv.org/abs/2507.13018) 
 
 <div align="center">
     <img width="600" alt="image" src="Figures/introduction.png?raw=true">
